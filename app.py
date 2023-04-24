@@ -1,2 +1,2 @@
 print("hello world")
-console.org
+console.log
